@@ -1,2 +1,4 @@
 # testrepo
-Just testing my new repo
+Hi there!
+
+This is a testing exercise with GitHub
